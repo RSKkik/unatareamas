@@ -1,0 +1,88 @@
+Algoritmo tabla_hasta_el_20
+	definir i Como Entero
+	Escribir "tabla del 1 "
+	Para  i	<- 1 hasta 10 con paso 1 hacer
+		escribir i "x" 1 "=" i*1
+	FinPara
+	escribir"tabla del 2"
+	
+	Para  i	<- 0 hasta 10 con paso 1 hacer
+		escribir i "x" 2 "=" i*2
+	FinPara
+	escribir"tabla del 3"
+	
+	
+	Para  i	<- 1 hasta 10 con paso 1 hacer
+		escribir i "x" 3 "=" i*3
+	FinPara
+	escribir"tabla del 4"
+	Para  i	<- 1 hasta 10 con paso 1 hacer
+		escribir i "x" 4 "=" i*4
+	FinPara
+	escribir"tabla del 5"
+	Para  i	<- 1 hasta 10 con paso 1 hacer
+		escribir i "x"  "=" i*5
+	FinPara
+	escribir"tabla del 6"
+	Para  i	<- 1 hasta 10 con paso 1 hacer
+		escribir i "x" 6 "=" i*6
+	FinPara
+	escribir"tabla del 7"
+	Para  i	<- 1 hasta 10 con paso 1 hacer
+		escribir i "x" 7 "=" i*7
+	FinPara
+	escribir"tabla del 8"
+	Para  i	<- 1 hasta 10 con paso 1 hacer
+		escribir i "x" 8 "=" i*8
+	FinPara
+	escribir"tabla del 9"
+	Para  i	<- 1 hasta 10 con paso 1 hacer
+		escribir i "x" 9 "=" i*9
+	FinPara
+	escribir"tabla del 10"
+	Para  i	<- 1 hasta 10 con paso 1 hacer
+		escribir i "x" 10 "=" i*10
+	FinPara
+	escribir"tabla del 11 "
+	Para  i	<- 1 hasta 10 con paso 1 hacer
+		escribir i "x" 11 "=" i*11
+	FinPara
+	escribir"tabla del 12"
+	Para  i	<- 1 hasta 10 con paso 1 hacer
+		escribir i "x" 12 "=" i*12
+	FinPara
+	escribir"tabla del 13"
+	Para  i	<- 1 hasta 10 con paso 1 hacer
+		escribir i "x" 13 "=" i*13
+	FinPara
+	escribir"tabla del 14"
+	Para  i	<- 1 hasta 10 con paso 1 hacer
+		escribir i "x" 14 "=" i*14
+	FinPara
+	escribir"tabla del 15"
+	Para  i	<- 1 hasta 10 con paso 1 hacer
+		escribir i "x" 15 "=" i*15
+	FinPara
+	escribir"tabla del 16"
+	Para  i	<- 1 hasta 10 con paso 1 hacer
+		escribir i "x" 16 "=" i*16
+	FinPara
+	escribir"tabla del 17"
+	Para  i	<- 1 hasta 10 con paso 1 hacer
+		escribir i "x" 17 "=" i*17
+	FinPara
+	escribir"tabla del 18"
+	Para  i	<- 1 hasta 10 con paso 1 hacer
+		escribir i "x" 18 "=" i*18
+	FinPara
+	escribir"tabla del 19"
+	Para  i	<- 1 hasta 10 con paso 1 hacer
+		escribir i "x" 19 "=" i*19
+	FinPara
+	escribir"tabla del 20"
+	Para  i	<- 1 hasta 10 con paso 1 hacer
+		escribir i "x" 20 "=" i*20
+	FinPara
+	
+	
+FinAlgoritmo
